@@ -1,0 +1,34 @@
+{
+    "root": "c:/Users/kenne/Documents/GitHub/SolarRadiationPrediction",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/krbundy/SolarRadiationPrediction.git",
+        "commit": "a20b34cd3395e094527121e65ecd3757399051c3"
+    },
+    "email": "kenneth.bundy@maine.edu",
+    "startedAt": "2020-09-18T22:36:15.414754",
+    "host": "DESKTOP-OL3NIE6",
+    "username": "kenne",
+    "executable": "C:\\Users\\kenne\\Anaconda3\\python.exe",
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.4",
+    "cpu_count": 8,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9003",
+        "--control=9001",
+        "--hb=9000",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"aa8f0984-28e8-4567-a962-905e682cf156\"",
+        "--shell=9002",
+        "--transport=\"tcp\"",
+        "--iopub=9004",
+        "--f=C:\\Users\\kenne\\AppData\\Local\\Temp\\tmp-17312b5AYAattFCiz.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "avid-plant-1",
+    "project": "Solar Radiation Prediction",
+    "heartbeatAt": "2020-09-18T22:36:18.639915"
+}
