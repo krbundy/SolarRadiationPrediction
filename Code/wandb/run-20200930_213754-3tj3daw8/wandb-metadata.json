@@ -1,0 +1,34 @@
+{
+    "root": "c:/Users/kenne/Documents/GitHub/SolarRadiationPrediction",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/krbundy/SolarRadiationPrediction.git",
+        "commit": "20685ff0d23901e071a0d2ef5cebf635f4026601"
+    },
+    "email": "kenneth.bundy@maine.edu",
+    "startedAt": "2020-10-01T01:37:53.917122",
+    "host": "DESKTOP-OL3NIE6",
+    "username": "kenne",
+    "executable": "C:\\Users\\kenne\\Anaconda3\\python.exe",
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.4",
+    "cpu_count": 8,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9003",
+        "--control=9001",
+        "--hb=9000",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"fdf19c4f-b97f-43b1-bff5-9c913466ea2d\"",
+        "--shell=9002",
+        "--transport=\"tcp\"",
+        "--iopub=9004",
+        "--f=C:\\Users\\kenne\\AppData\\Local\\Temp\\tmp-9180kc4QSKaOOCQS.json"
+    ],
+    "state": "running",
+    "jobType": null,
+    "mode": "run",
+    "name": "swift-haze-4",
+    "project": "Solar Radiation Prediction",
+    "heartbeatAt": "2020-10-01T01:37:57.253750"
+}
