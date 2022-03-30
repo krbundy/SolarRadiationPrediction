@@ -1,0 +1,32 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.4",
+    "heartbeatAt": "2020-10-10T00:36:04.455685",
+    "startedAt": "2020-10-10T00:36:01.535389",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9003",
+        "--control=9001",
+        "--hb=9000",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"2d998071-e041-41fd-97d3-f82a51872175\"",
+        "--shell=9002",
+        "--transport=\"tcp\"",
+        "--iopub=9004",
+        "--f=C:\\Users\\kenne\\AppData\\Local\\Temp\\tmp-28568ivDSsz1JIKZW.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/krbundy/SolarRadiationPrediction.git",
+        "commit": "7df4483cb5f83112b66328225b77f803dbf7c756"
+    },
+    "email": "kenneth.bundy@maine.edu",
+    "root": "c:/Users/kenne/Documents/GitHub/SolarRadiationPrediction",
+    "host": "DESKTOP-OL3NIE6",
+    "username": "kenne",
+    "executable": "C:\\Users\\kenne\\Anaconda3\\python.exe"
+}
